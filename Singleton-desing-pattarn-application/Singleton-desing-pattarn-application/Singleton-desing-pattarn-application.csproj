@@ -7,8 +7,4 @@
     <RootNamespace>Singleton_desing_pattarn_application</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
-  </ItemGroup>
-
 </Project>
